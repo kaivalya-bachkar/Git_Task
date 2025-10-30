@@ -4,3 +4,6 @@
 [submodule "Cloudethix_Git_Kaivalya"]
 	path = Cloudethix_Git_Kaivalya
 	url = https://github.com/kaivalya-bachkar/Cloudethix_Git_Kaivalya.git
+[submodule "merge_confilct_demo"]
+	path = merge_confilct_demo
+	url = https://github.com/kaivalya-bachkar/merge_confilct_demo.git
