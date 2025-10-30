@@ -1,0 +1,3 @@
+[submodule "free-for-dev"]
+	path = free-for-dev
+	url = https://github.com/kaivalya-bachkar/free-for-dev.git
